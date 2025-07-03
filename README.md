@@ -76,10 +76,22 @@ npm run dev
 
 ---
 
-## 🌍 Live Demo
+## 🌐 Live Demo
 
-Coming soon...  
-Host your frontend using **Vercel**/**Netlify** and backend via **Render**/**Glitch**.
+🛍️ Try the Live App: [jiomart-clone.vercel.app](https://jiomart-clone-kp.vercel.app/)
+
+✅ You can **create your own account** using the Sign Up page.  
+Or use this **test account** to explore instantly:
+
+- **Email:** `shivam@gmail.com`
+- **Password:** `123456`
+
+> 🧪 Note: The test account is public. Avoid entering any sensitive data.
+
+⚙️ Backend API: [https://jiomart-api.onrender.com](https://jiomart-clone-data-json.onrender.com/)
+
+> Make sure the backend (e.g., Render or Railway) is active for full functionality like product data, login, and cart management.
+> Free services like Render or Railway may take a few seconds to wake up if idle.
 
 ---
 
